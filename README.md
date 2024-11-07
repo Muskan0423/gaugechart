@@ -1,8 +1,35 @@
-# React + Vite
+# Project Name
+Gauge Chart-:it is basically a chart which initially has its value till 50 but as we click on the random button we get the random value and accordingly the cursor moves
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+
+- Real-time data updates
+- Responsive design for all screen sizes
+- Dynamic charts and data visualization
+
+
+## Demo
+
+Vercel-link-:
+
+## Technologies Used
+
+- **Frontend**: React, Vite, Tailwind CSS
+- **State Management**: Redux Toolkit
+- **Backend** (if applicable): Node.js, Express
+- **Database** (if applicable): MongoDB, Firebase
+- **Others**: Recharts for charts, ESLint for linting, Prettier for code formatting
+
+## Installation
+
+### Prerequisites
+- Node.js and npm installed on your machine.
+
+### Steps
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
